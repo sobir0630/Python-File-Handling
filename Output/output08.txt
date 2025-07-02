@@ -1,0 +1,2 @@
+namburs: 3
+divisable by 5: 5; 10; 65
